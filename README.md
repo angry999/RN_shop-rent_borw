@@ -33,3 +33,4 @@
   cd ./fastlane
   fastlane Android beta
 ```
+https://www.youtube.com/watch?v=QZOZ6IUFyAw&t=4s
